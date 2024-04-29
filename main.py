@@ -16,7 +16,3 @@ el_shelter_afforded()
 el_new_all()             
 el_wpi_import()             
 el_wpi_region()            
-
-
-
-
