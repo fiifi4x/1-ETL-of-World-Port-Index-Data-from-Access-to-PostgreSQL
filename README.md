@@ -1,11 +1,6 @@
-PROJECT DESCRIPTION
-The project involves building a data pipeline to migrate data (known as World Port Index Data) from an old Access database to PostgreSQL (a modern relational database management system). 
-
- DATA DESCRIPTION
-The World Port Index contains the location and physical characteristics of, and the facilities
-and services offered by major ports and terminals world-wide.
-
 HOW TO RUN THE CODE
+
+
 To download the World Port Index Data (file is in .mdb format)
 
 JNSTALLATION
